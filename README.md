@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # lider-ahenk-archetype [![Build Status](https://travis-ci.org/Pardus-Kurumsal/lider-ahenk-archetype.svg?branch=master)](https://travis-ci.org/Pardus-Kurumsal/lider-ahenk-archetype)
 
 **Lider Ahenk** is an open source project which provides solutions to manage, monitor and audit unlimited number of different systems and users on a network.
@@ -125,3 +126,6 @@ See [changelog](https://github.com/Pardus-Kurumsal/lider/wiki/Changelog) to lear
 ## License
 
 Lider Ahenk and its sub projects are licensed under the [LGPL v3](https://github.com/Pardus-Kurumsal/lider-ahenk-archetype/blob/master/LICENSE).
+=======
+# lider-ahenk-archetype
+>>>>>>> bdb72c3f9cf2564f08048eaf273a68300e789b32
