@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# lider-ahenk-archetype [![Build Status](https://travis-ci.org/Pardus-Kurumsal/lider-ahenk-archetype.svg?branch=master)](https://travis-ci.org/Pardus-Kurumsal/lider-ahenk-archetype)
+# lider-ahenk-archetype [![Build Status](https://travis-ci.org/Pardus-LiderAhenk/lider-ahenk-archetype.svg?branch=master)](https://travis-ci.org/Pardus-LiderAhenk/lider-ahenk-archetype)
 
 **Lider Ahenk** is an open source project which provides solutions to manage, monitor and audit unlimited number of different systems and users on a network.
 
@@ -60,7 +60,7 @@ Base class name which is used by both Lider and Lider Console sub-modules.
 
 If you're still unsure about how to start, see this example:
 
-> **Warning**: Make sure you have setup development environment for all the core components ([Lider](https://github.com/Pardus-Kurumsal/lider/wiki/01.-Setup-Development-Environment), [Lider Console](https://github.com/Pardus-Kurumsal/lider-console/wiki/01.-Setup-Development-Environment) and [Ahenk](https://github.com/Pardus-Kurumsal/ahenk/wiki/01.-Setup-Development-Environment)) before creating a new plugin project!
+> **Warning**: Make sure you have setup development environment for all the core components ([Lider](https://github.com/Pardus-LiderAhenk/lider/wiki/01.-Setup-Development-Environment), [Lider Console](https://github.com/Pardus-LiderAhenk/lider-console/wiki/01.-Setup-Development-Environment) and [Ahenk](https://github.com/Pardus-LiderAhenk/ahenk/wiki/01.-Setup-Development-Environment)) before creating a new plugin project!
 
 1. Create new project for our new plugin _package manager_:
 
@@ -80,7 +80,7 @@ mvn archetype:generate \
 3. Change directory to lider-ahenk-package-manager-plugin and type `mvn clean install -DskipTests` to build it.
 4. That's it! Now we can import this project into Eclipse or push to some VCS repository.
 
-> **Tip**: Here is a [tutorial about Lider Ahenk plugin development](https://github.com/Pardus-Kurumsal/lider/wiki/Lider-Ahenk-Plugin-Tutorial) if you are interested!
+> **Tip**: Here is a [tutorial about Lider Ahenk plugin development](https://github.com/Pardus-LiderAhenk/lider/wiki/Lider-Ahenk-Plugin-Tutorial) if you are interested!
 
 ## Contribution
 
@@ -89,17 +89,17 @@ We encourage contributions to the project. To contribute:
 * Fork the project and create a new bug or feature branch.
 * Make your commits with clean, understandable comments
 * Perform a pull request
- 
+
 ## Other Lider Ahenk Projects
 
-* [Lider](https://github.com/Pardus-Kurumsal/lider): Business layer running on Karaf container.
-* [Lider Console](https://github.com/Pardus-Kurumsal/lider-console): Administration console built as Eclipse RCP application.
-* [Ahenk](https://github.com/Pardus-Kurumsal/ahenk): Agent service running on remote machines.
-* [Lider Ahenk Installer](https://github.com/Pardus-Kurumsal/lider-ahenk-installer): Installation wizard for Ahenk and Lider (and also its LDAP, database, XMPP servers).
+* [Lider](https://github.com/Pardus-LiderAhenk/lider): Business layer running on Karaf container.
+* [Lider Console](https://github.com/Pardus-LiderAhenk/lider-console): Administration console built as Eclipse RCP application.
+* [Ahenk](https://github.com/Pardus-LiderAhenk/ahenk): Agent service running on remote machines.
+* [Lider Ahenk Installer](https://github.com/Pardus-LiderAhenk/lider-ahenk-installer): Installation wizard for Ahenk and Lider (and also its LDAP, database, XMPP servers).
 
 ## Changelog
 
-See [changelog](https://github.com/Pardus-Kurumsal/lider/wiki/Changelog) to learn what we have been up to.
+See [changelog](https://github.com/Pardus-LiderAhenk/lider/wiki/Changelog) to learn what we have been up to.
 
 ## Roadmap
 
@@ -125,7 +125,7 @@ See [changelog](https://github.com/Pardus-Kurumsal/lider/wiki/Changelog) to lear
 
 ## License
 
-Lider Ahenk and its sub projects are licensed under the [LGPL v3](https://github.com/Pardus-Kurumsal/lider-ahenk-archetype/blob/master/LICENSE).
+Lider Ahenk and its sub projects are licensed under the [LGPL v3](https://github.com/Pardus-LiderAhenk/lider-ahenk-archetype/blob/master/LICENSE).
 =======
 # lider-ahenk-archetype
 >>>>>>> bdb72c3f9cf2564f08048eaf273a68300e789b32
